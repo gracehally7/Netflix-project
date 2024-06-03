@@ -1,5 +1,5 @@
 # Netflix-project
-investigating netflix movies
+Exploratory analysis on netflix movies
 
 You can view the live code here
 
